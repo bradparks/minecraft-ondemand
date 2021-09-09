@@ -1,6 +1,9 @@
 # minecraft-ondemand
 Almost free serverless on-demand Minecraft server in AWS
 
+hacker news:
+https://news.ycombinator.com/item?id=28454968
+
 ## Background
 Instead of paying a minecraft hosting service for a private server for you and your friends, host it yourself.  By utilizing several AWS services, a minecraft server can automatically start when you're ready to use it, and shut down when you are done.  The final cost will depend on use but can be as little as a a dollar or two per month.  The cost estimate breakdown is below.
 
